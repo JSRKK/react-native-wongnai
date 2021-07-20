@@ -10,7 +10,7 @@
     "@shoutem/cli": "^0.10.11",
     "@shoutem/ui": "^0.24.1",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-cli": "^2.0.1"
   },
   "devDependencies": {
